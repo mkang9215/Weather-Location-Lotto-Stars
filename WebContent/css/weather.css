@@ -1,0 +1,33 @@
+@charset "EUC-KR";
+
+.w {
+	width: 240px;
+	height: 140px;
+	box-shadow: 3px 3px 3px black;
+	font-size: 15pt;
+	float: left;
+	margin: 20px;
+}
+
+.wHour {
+	background-color: #000000CC;
+	color: #FFB74D;
+}
+
+.wImg {
+	max-width: 55px;
+}
+
+#lottoBtn {
+	margin: 20px;
+	width: 160px;
+	height: 40px;
+	background-color: transparent;
+	border: #800000 solid 1px;
+	box-shadow: 2px 2px 2px black;
+	cursor: pointer;
+	color: #800000;
+	font-family: "a";
+	font-size: 15pt;
+	font-weight: 900;
+}
